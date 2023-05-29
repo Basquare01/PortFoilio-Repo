@@ -19,7 +19,7 @@ button.addEventListener('click', function(){
     }
     else{
           
-  dayRespone.innerText = 27 - parseInt(inputBoxDay.value);
+  dayRespone.innerText = 29 - parseInt(inputBoxDay.value);
   dayRespone.style.color = 'Green';
   monthResponse.innerText = 5 - parseInt(inputBoxMonth.value); 
   monthResponse.style.color = 'Green';
